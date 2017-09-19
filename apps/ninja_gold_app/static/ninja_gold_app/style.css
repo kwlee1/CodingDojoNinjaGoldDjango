@@ -1,0 +1,24 @@
+#gold{
+    color: gold; 
+    border: 1px solid black; 
+    padding: 2px; 
+}
+.place{
+    width: 200px;
+    height: 150px; 
+    border: 1px solid black; 
+    text-align: center; 
+    display: inline-block; 
+}
+#act{
+    width: 820px; 
+    height: 150px; 
+    border: 1px solid black; 
+    overflow: scroll; 
+}
+.win{
+    color: green; 
+}
+.loss{
+    color: red; 
+}
